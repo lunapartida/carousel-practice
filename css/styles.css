@@ -1,0 +1,12 @@
+/* .carousel-image {
+    height: 300px;
+} */
+.example {
+    color: blue;
+    background-color: coral;
+}
+.example:hover {
+    color: coral;
+    background-color: blue;
+    font-size: xx-small;
+}
